@@ -8,5 +8,6 @@ Project 1: Vanilla JS - *arbitrary backend*
 - Technologies: Maps(API), Geolocation API, Vanilla JS, and then backend (undecided)
 - Scope: Real Estate Area : NCR (prio: Quezon City) 
 
+-- Added test line
 
 
