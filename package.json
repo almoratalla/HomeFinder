@@ -1,0 +1,37 @@
+{
+  "name": "homefinder",
+  "version": "1.0.0",
+  "description": "Real Estate advertising website",
+  "main": "homefinder.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realmoratalla/HomeFinder.git"
+  },
+  "keywords": [
+    "Real",
+    "Estate",
+    "Maps",
+    "Geolocation",
+    "VanillaJS"
+  ],
+  "author": "Alain Moratalla, Larz Thimoty Pal-ing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realmoratalla/HomeFinder/issues"
+  },
+  "homepage": "https://github.com/realmoratalla/HomeFinder#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.4.0",
+    "mocha": "^8.0.1",
+    "pm2": "^4.4.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  }
+}
